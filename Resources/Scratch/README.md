@@ -3,7 +3,10 @@
 
 1) If you are completely new to Scratch we recomend that you check out the [CoderDojo Cards] (http://kata.coderdojo.com/wiki/Beginner_Scratch)
 
-2) Next step is to work through one of the Code Club's Excercise:
+2) You can run scratch on your browser! [Follow this link](https://scratch.mit.edu/)
+   click on 'Create' button next to Scratch logo (top left)
+
+3) Next step is to work through one of the Code Club's Excercise:
     - Beginner
         - [Lost in Space](https://codeclubprojects.org/en-GB/scratch/lost-in-space/)
         - [Rock Band](https://codeclubprojects.org/en-GB/scratch/rock-band/)
