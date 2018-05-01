@@ -18,6 +18,8 @@
     - Intermediate:
         - [Memory](https://codeclubprojects.org/en-GB/scratch/memory/)
         - [Catch the Dots](https://codeclubprojects.org/en-GB/scratch/catch-the-dots/)
+        - [Dodgeball](https://codeclubprojects.org/en-GB/scratch/dodgeball/)
+        - [Brain Game](https://codeclubprojects.org/en-GB/scratch/brain-game/)
 
     - Advanced:
         - [Guess the Flag](https://codeclubprojects.org/en-GB/scratch/guess-the-flag/)
