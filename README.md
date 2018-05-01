@@ -4,7 +4,15 @@ The folders above are organised by `[Technology]`/`[Experience Level]` e.g. `Pyt
 
 For further resources, see [https://coderdojo.com/resources/](https://coderdojo.com/resources/)
 
-## About Yoti
+# What is CoderDojo?
+[![What is CoderDojo](https://img.youtube.com/vi/c7ROVdcyk7s/0.jpg)](https://www.youtube.com/watch?v=c7ROVdcyk7s)
+
+# CoderDojo Movement
+Video about the CoderDojo movement & ethos (for parents)
+
+[![CoderDojo Movement](https://img.youtube.com/vi/_bjboMjNr9Q/0.jpg)](https://www.youtube.com/watch?v=_bjboMjNr9Q)
+
+# About Yoti
 
 Yoti is a digital identity system that provides a simple and secure way of proving identities, online and face to face. 
 
