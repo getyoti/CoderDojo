@@ -1,8 +1,6 @@
 # Yoti CoderDojo Resources
 
-The folders above are organised by `[Technology]`/`[Experience Level]` e.g. `Python/Beginner`. Feel free to explore, download and print any resources.
-
-For further resources, see [https://coderdojo.com/resources/](https://coderdojo.com/resources/)
+The folders in "[Resources](/Resources)" above are organised by `[Technology]`/`[Experience Level]` e.g. `Python/Beginner`. Feel free to explore, download and print any resources.
 
 # What is CoderDojo?
 [![What is CoderDojo](https://img.youtube.com/vi/c7ROVdcyk7s/0.jpg)](https://www.youtube.com/watch?v=c7ROVdcyk7s)
@@ -11,6 +9,10 @@ For further resources, see [https://coderdojo.com/resources/](https://coderdojo.
 Video about the CoderDojo movement & ethos (for parents)
 
 [![CoderDojo Movement](https://img.youtube.com/vi/_bjboMjNr9Q/0.jpg)](https://www.youtube.com/watch?v=_bjboMjNr9Q)
+
+For further **Scratch** exercises on the Raspberry Pi website, click [here](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch).
+
+For further **Python** exercises on the Raspberry Pi website, click [here](https://projects.raspberrypi.org/en/projects?software%5B%5D=python)
 
 # About Yoti
 
