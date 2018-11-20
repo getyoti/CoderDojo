@@ -20,9 +20,10 @@
         - [Catch the Dots](https://codeclubprojects.org/en-GB/scratch/catch-the-dots/)
         - [Dodgeball](https://codeclubprojects.org/en-GB/scratch/dodgeball/)
         - [Brain Game](https://codeclubprojects.org/en-GB/scratch/brain-game/)
-
+		- [Green Your City](https://codeclubprojects.org/en-GB/scratch/green-your-city/)
     - Advanced:
         - [Guess the Flag](https://codeclubprojects.org/en-GB/scratch/guess-the-flag/)
         - [Flower Generator](https://codeclubprojects.org/en-GB/scratch/flower-generator/)
+		- [Beat the Goalie](https://codeclubprojects.org/en-GB/scratch/beat-the-goalie/)
 
     You can find more projects [here](https://codeclubprojects.org/en-GB/scratch/)
