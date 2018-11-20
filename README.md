@@ -1,6 +1,6 @@
-# Yoti CoderDojo Resources
+# Yoti CoderDojo Exercises
 
-The folders in "[Resources](/Resources)" above are organised by `[Technology]`/`[Experience Level]` e.g. `Python/Beginner`. Feel free to explore, download and print any resources.
+The folders in "[Exercises](/Exercises)" above are organised by `[Technology]`/`[Experience Level]` e.g. `Python/Beginner`. Feel free to explore, download and print any resources.
 
 # What is CoderDojo?
 [![What is CoderDojo](https://img.youtube.com/vi/c7ROVdcyk7s/0.jpg)](https://www.youtube.com/watch?v=c7ROVdcyk7s)
